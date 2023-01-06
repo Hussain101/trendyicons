@@ -1,0 +1,33 @@
+/* For decalring the color palette */
+:root {
+    --bg: #F5F5F5;
+    --grey_light: #C2C2C2;
+    --grey:#8F8F8F;
+    --grey_dark: #333333;
+    --black:#01030A;
+    --blue: #1501A1;
+    --royal_blue: #051341;
+    --orange:#FF4801;
+    --white: #FFFFFF;
+}
+
+.h_container{
+    background-image: url("../assessts/BG_Image.png");
+    height: 768px;
+    font-family: 'Poppins',sans-serif;
+}
+.p_hero{
+    color: var(--white);
+}
+.search{
+    background-color: var(--white);
+}
+.search_btn{
+    background-color: var(--blue);
+}
+.exclusive_box{
+    border: 0.75px solid #C2C2C2;
+    box-shadow: 8px 4px 4px rgba(14, 3, 9, 0.01), 4px 3px 3px rgba(14, 3, 9, 0.03), 2px 1px 2px rgba(14, 3, 9, 0.04), 0px 0px 1px rgba(14, 3, 9, 0.05), 0px 0px 0px rgba(14, 3, 9, 0.05);
+    border-radius: 16px;
+}
+

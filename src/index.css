@@ -1,13 +1,23 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* For decalring the color palette */
+*{
+    font-family: 'Poppins', sans-serif;
+}
+:root {
+    --bg: #F5F5F5;
+    --grey_light: #C2C2C2;
+    --grey: #8F8F8F;
+    --grey_dark: #333333;
+    --black: #01030A;
+    --blue: #1501A1;
+    --royal_blue: #051341;
+    --orange: #FF4801;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* For the navbar in the header of the cpmponents folder */
+.navbar{
+    background-color: var(--bg);
 }
