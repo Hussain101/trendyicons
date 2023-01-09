@@ -13,26 +13,26 @@ const Exclusive = () => {
         <div className="my-9 flex">
           <div className="exclusive_box">
             <div className="flex">
-              <img src={category} className="p-9" alt="" />
-              <img src={category} className="p-9" alt="" />
-              <img src={category} className="p-9" alt="" />
+              <img src={category} className="p-7" alt="" />
+              <img src={category} className="p-7" alt="" />
+              <img src={category} className="p-7" alt="" />
             </div>
             <div className="flex">
-              <img src={category} className="p-9" alt="" />
-              <img src={category} className="p-9" alt="" />
-              <img src={category} className="p-9" alt="" />
+              <img src={category} className="p-7" alt="" />
+              <img src={category} className="p-7" alt="" />
+              <img src={category} className="p-7" alt="" />
             </div>
           </div>
           <div className="exclusive_box mx-4">
             <div className="flex">
-              <img src={color} className="p-8" alt="" />
-              <img src={color} className="p-8" alt="" />
-              <img src={color} className="p-8" alt="" />
+              <img src={color} className="p-7" alt="" />
+              <img src={color} className="p-7" alt="" />
+              <img src={color} className="p-7" alt="" />
             </div>
             <div className="flex">
-              <img src={color} className="p-8" alt="" />
-              <img src={color} className="p-8" alt="" />
-              <img src={color} className="p-8" alt="" />
+              <img src={color} className="p-7" alt="" />
+              <img src={color} className="p-7" alt="" />
+              <img src={color} className="p-7" alt="" />
             </div>
           </div>
           <div className="exclusive_box">
@@ -54,26 +54,26 @@ const Exclusive = () => {
         <div className="my-9 flex">
           <div className="exclusive_box">
             <div className="flex">
-              <img src={category} className="p-8" alt="" />
-              <img src={category} className="p-8" alt="" />
-              <img src={category} className="p-8" alt="" />
+              <img src={category} className="p-7" alt="" />
+              <img src={category} className="p-7" alt="" />
+              <img src={category} className="p-7" alt="" />
             </div>
             <div className="flex">
-              <img src={category} className="p-8" alt="" />
-              <img src={category} className="p-8" alt="" />
-              <img src={category} className="p-8" alt="" />
+              <img src={category} className="p-7" alt="" />
+              <img src={category} className="p-7" alt="" />
+              <img src={category} className="p-7" alt="" />
             </div>
           </div>
           <div className="exclusive_box mx-4">
             <div className="flex">
-              <img src={color} className="p-8" alt="" />
-              <img src={color} className="p-8" alt="" />
-              <img src={color} className="p-8" alt="" />
+              <img src={color} className="p-7" alt="" />
+              <img src={color} className="p-7" alt="" />
+              <img src={color} className="p-7" alt="" />
             </div>
             <div className="flex">
-              <img src={color} className="p-8" alt="" />
-              <img src={color} className="p-8" alt="" />
-              <img src={color} className="p-8" alt="" />
+              <img src={color} className="p-7" alt="" />
+              <img src={color} className="p-7" alt="" />
+              <img src={color} className="p-7" alt="" />
             </div>
           </div>
           <div className="exclusive_box">
