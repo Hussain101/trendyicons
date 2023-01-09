@@ -4,10 +4,9 @@ import { Routes, Route } from "react-router-dom";
 function App() {
   return (
     <div className="App bg-[#F5F5F5] ">
-      <p>hello from app</p>
-      {/* <Routes>
+      <Routes>
         <Route exact path="/" element={<Homepage />} />
-      </Routes> */}
+      </Routes>
     </div>
   );
 }
